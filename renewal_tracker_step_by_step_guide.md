@@ -3,7 +3,6 @@
 This guide shows how to turn `q4_benefits_renewal_tracker_starter.csv` into a “hands‑off” renewal tracker where updating `Current Status` on a tracking tab automatically updates an executive dashboard.
 
 ## What you’ll build (tab structure)
-
 - `Tracking` (data + formulas + conditional formatting)
 - `Lists` (status list + stage order mapping used by validation/sorting)
 - `Dashboard` (KPIs + charts + carrier breakdown, printable to PDF)
