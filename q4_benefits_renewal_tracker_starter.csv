@@ -1,0 +1,101 @@
+﻿Account ID,Client Name,Policy Type,Renewal Date,Annual Premium,Assigned Lead,Carrier,Current Status
+EB-00001,TechFlow Solutions,Health,2024-10-15,425000,Sarah Jenkins,Aetna,Bound
+EB-00002,Ironclad Manufacturing,Life,2024-11-01,85000,Marcus Thorne,MetLife,Proposal Presented
+EB-00003,GreenLeaf Organics,Dental,2024-12-15,120000,Elena Rodriguez,Guardian,Underwriting
+EB-00004,NorthStar Logistics,Health,2024-10-01,950000,David Wu,Blue Cross Blue Shield,Bound
+EB-00005,Pinnacle Health,LTD,2024-11-15,62000,Linda Garter,Unum,Census Received
+EB-00006,Blue Horizon Media,Health,2024-10-20,310000,Sarah Jenkins,UnitedHealthcare,Proposal Presented
+EB-00007,Silver Oak Consulting,Vision,2024-12-01,28000,Marcus Thorne,Cigna,Discovery
+EB-00008,Urban Edge Retail,Health,2024-11-30,540000,Elena Rodriguez,Kaiser Permanente,Underwriting
+EB-00009,Quantum Systems,Life,2024-10-10,115000,David Wu,Principal,Bound
+EB-00010,Heritage Hospitality,Health,2024-12-31,1200000,Linda Garter,Aetna,Discovery
+EB-00011,Apex Financial,Dental,2024-11-10,92000,Sarah Jenkins,MetLife,Bound
+EB-00012,Summit Education,Health,2024-10-05,275000,Marcus Thorne,Blue Cross Blue Shield,Underwriting
+EB-00013,Riverbend Textiles,LTD,2024-12-20,48000,Elena Rodriguez,Unum,Census Received
+EB-00014,Nova Biotech,Health,2024-11-15,880000,David Wu,Cigna,Proposal Presented
+EB-00015,Global Freight,Vision,2024-10-25,34000,Linda Garter,Guardian,Bound
+EB-00016,Pacific Coast Realty,Health,2024-12-10,410000,Sarah Jenkins,UnitedHealthcare,Underwriting
+EB-00017,Evergreen Senior Living,Life,2024-11-05,150000,Marcus Thorne,MetLife,Proposal Presented
+EB-00018,Catalyst Creative,Dental,2024-10-12,55000,Elena Rodriguez,Cigna,Bound
+EB-00019,Sterling Legal,Health,2024-12-05,670000,David Wu,Aetna,Underwriting
+EB-00020,Vanguard Security,LTD,2024-11-20,72000,Linda Garter,Unum,Proposal Presented
+EB-00021,Pacific Coast Realty,STD,2024-10-27,1207292,Sarah Jenkins,Kaiser Permanente,Underwriting
+EB-00022,Ironclad Manufacturing,Dental,2024-10-30,403281,Linda Garter,Aetna,Underwriting
+EB-00023,Apex Financial,Vision,2024-10-24,1356383,Marcus Thorne,Aetna,Underwriting
+EB-00024,NorthStar Logistics,Life,2024-10-06,978512,Linda Garter,Humana,Discovery
+EB-00025,NorthStar Logistics,LTD,2024-10-04,381970,David Wu,Unum,Underwriting
+EB-00026,Pinnacle Health,Life,2024-12-23,1440658,Sarah Jenkins,Aetna,Proposal Presented
+EB-00027,TechFlow Solutions,Life,2024-11-02,954162,Elena Rodriguez,Unum,Census Received
+EB-00028,Vanguard Security,LTD,2024-11-21,137825,Elena Rodriguez,Cigna,Proposal Presented
+EB-00029,Vanguard Security,LTD,2024-10-12,1145661,Elena Rodriguez,Unum,Discovery
+EB-00030,Pacific Coast Realty,Health,2024-12-24,1078861,Elena Rodriguez,Kaiser Permanente,Discovery
+EB-00031,Evergreen Senior Living,Life,2024-12-10,768616,Marcus Thorne,Cigna,Underwriting
+EB-00032,Global Freight,Vision,2024-10-20,566500,Linda Garter,Aetna,Census Received
+EB-00033,Catalyst Creative,Vision,2024-10-17,549270,Elena Rodriguez,Principal,Underwriting
+EB-00034,Evergreen Senior Living,LTD,2024-11-30,1023345,David Wu,Kaiser Permanente,Underwriting
+EB-00035,NorthStar Logistics,STD,2024-12-10,416055,David Wu,UnitedHealthcare,Underwriting
+EB-00036,NorthStar Logistics,Vision,2024-12-25,1067898,Elena Rodriguez,Unum,Proposal Presented
+EB-00037,Catalyst Creative,Dental,2024-11-06,1103823,Marcus Thorne,Unum,Census Received
+EB-00038,Ironclad Manufacturing,Life,2024-12-18,573161,Marcus Thorne,Kaiser Permanente,Bound
+EB-00039,Vanguard Security,STD,2024-12-02,124906,Sarah Jenkins,Aetna,Census Received
+EB-00040,Silver Oak Consulting,Health,2024-10-07,96023,Sarah Jenkins,Humana,Census Received
+EB-00041,Evergreen Senior Living,Dental,2024-12-26,591806,Linda Garter,Unum,Underwriting
+EB-00042,Quantum Systems,Health,2024-11-28,290705,Elena Rodriguez,Humana,Census Received
+EB-00043,Ironclad Manufacturing,Dental,2024-11-20,623175,Sarah Jenkins,MetLife,Discovery
+EB-00044,NorthStar Logistics,Health,2024-10-08,523573,David Wu,Principal,Underwriting
+EB-00045,Apex Financial,Health,2024-10-25,591884,David Wu,UnitedHealthcare,Underwriting
+EB-00046,Pacific Coast Realty,Life,2024-10-01,313744,Marcus Thorne,Cigna,Census Received
+EB-00047,Blue Horizon Media,Health,2024-11-19,1427991,Marcus Thorne,Unum,Discovery
+EB-00048,Silver Oak Consulting,Health,2024-10-17,216516,Linda Garter,Blue Cross Blue Shield,Bound
+EB-00049,Nova Biotech,Life,2024-12-27,125996,Elena Rodriguez,Principal,Underwriting
+EB-00050,Blue Horizon Media,Dental,2024-12-05,1310197,Sarah Jenkins,Aetna,Proposal Presented
+EB-00051,Global Freight,Dental,2024-12-09,1255553,David Wu,UnitedHealthcare,Census Received
+EB-00052,Pinnacle Health,Health,2024-10-04,525141,Elena Rodriguez,Guardian,Underwriting
+EB-00053,Pacific Coast Realty,Health,2024-10-25,1344535,David Wu,UnitedHealthcare,Discovery
+EB-00054,Pacific Coast Realty,Health,2024-10-20,196960,Sarah Jenkins,MetLife,Proposal Presented
+EB-00055,Silver Oak Consulting,LTD,2024-11-04,562340,Marcus Thorne,Kaiser Permanente,Discovery
+EB-00056,Ironclad Manufacturing,Life,2024-12-10,1123035,David Wu,UnitedHealthcare,Bound
+EB-00057,GreenLeaf Organics,STD,2024-11-25,1184824,Linda Garter,Humana,Proposal Presented
+EB-00058,Global Freight,Life,2024-10-12,546923,David Wu,Guardian,Census Received
+EB-00059,NorthStar Logistics,Health,2024-12-14,216014,Sarah Jenkins,Cigna,Proposal Presented
+EB-00060,Apex Financial,Health,2024-11-17,1455506,Elena Rodriguez,Cigna,Proposal Presented
+EB-00061,Evergreen Senior Living,LTD,2024-11-22,60585,Sarah Jenkins,Guardian,Bound
+EB-00062,Ironclad Manufacturing,Health,2024-12-18,241288,Linda Garter,Guardian,Proposal Presented
+EB-00063,Urban Edge Retail,LTD,2024-11-27,673006,David Wu,Aetna,Underwriting
+EB-00064,NorthStar Logistics,Vision,2024-10-22,947162,Marcus Thorne,Blue Cross Blue Shield,Underwriting
+EB-00065,Nova Biotech,Life,2024-12-01,1419985,Sarah Jenkins,Unum,Census Received
+EB-00066,Sterling Legal,Dental,2024-12-07,1009154,Linda Garter,MetLife,Discovery
+EB-00067,Ironclad Manufacturing,Health,2024-12-17,157488,Elena Rodriguez,Aetna,Census Received
+EB-00068,NorthStar Logistics,STD,2024-12-18,176229,Linda Garter,Principal,Census Received
+EB-00069,Summit Education,Life,2024-12-12,281274,Linda Garter,Blue Cross Blue Shield,Bound
+EB-00070,Nova Biotech,Health,2024-12-16,501276,Sarah Jenkins,Unum,Discovery
+EB-00071,Apex Financial,LTD,2024-10-31,1441053,Sarah Jenkins,Aetna,Census Received
+EB-00072,NorthStar Logistics,Dental,2024-10-24,1233840,Elena Rodriguez,UnitedHealthcare,Census Received
+EB-00073,Vanguard Security,Health,2024-12-05,859389,David Wu,Kaiser Permanente,Discovery
+EB-00074,Apex Financial,Dental,2024-10-01,882976,Sarah Jenkins,Kaiser Permanente,Proposal Presented
+EB-00075,Evergreen Senior Living,STD,2024-11-16,656222,Marcus Thorne,Principal,Proposal Presented
+EB-00076,Evergreen Senior Living,Vision,2024-10-05,685962,David Wu,Cigna,Census Received
+EB-00077,Quantum Systems,Vision,2024-10-06,192554,Linda Garter,Humana,Bound
+EB-00078,Vanguard Security,Health,2024-12-28,659821,Elena Rodriguez,Aetna,Discovery
+EB-00079,Sterling Legal,Dental,2024-11-25,492260,Linda Garter,Principal,Discovery
+EB-00080,Blue Horizon Media,Dental,2024-11-15,364181,Linda Garter,Aetna,Underwriting
+EB-00081,Global Freight,Vision,2024-12-11,537938,Elena Rodriguez,UnitedHealthcare,Bound
+EB-00082,GreenLeaf Organics,Vision,2024-12-12,1021633,Marcus Thorne,Principal,Bound
+EB-00083,GreenLeaf Organics,STD,2024-10-13,1345329,Elena Rodriguez,Guardian,Underwriting
+EB-00084,Vanguard Security,Life,2024-12-30,1161049,David Wu,Kaiser Permanente,Bound
+EB-00085,Pacific Coast Realty,LTD,2024-11-06,300174,Elena Rodriguez,Principal,Bound
+EB-00086,Ironclad Manufacturing,Health,2024-11-22,682677,David Wu,Principal,Discovery
+EB-00087,Global Freight,Health,2024-12-12,1047066,Sarah Jenkins,Cigna,Census Received
+EB-00088,Pacific Coast Realty,STD,2024-10-01,654599,David Wu,Humana,Underwriting
+EB-00089,TechFlow Solutions,LTD,2024-12-21,64306,David Wu,Humana,Underwriting
+EB-00090,Sterling Legal,LTD,2024-11-02,586926,David Wu,Humana,Proposal Presented
+EB-00091,TechFlow Solutions,Life,2024-10-14,742931,Sarah Jenkins,UnitedHealthcare,Bound
+EB-00092,Nova Biotech,STD,2024-12-24,1144006,David Wu,Aetna,Bound
+EB-00093,Catalyst Creative,Health,2024-10-30,1312249,Linda Garter,UnitedHealthcare,Census Received
+EB-00094,Catalyst Creative,Vision,2024-10-22,1150659,Marcus Thorne,Blue Cross Blue Shield,Bound
+EB-00095,Heritage Hospitality,LTD,2024-10-25,505469,Linda Garter,Cigna,Underwriting
+EB-00096,Catalyst Creative,STD,2024-10-22,1118632,Marcus Thorne,Aetna,Bound
+EB-00097,NorthStar Logistics,Vision,2024-12-07,1033867,Linda Garter,Blue Cross Blue Shield,Proposal Presented
+EB-00098,TechFlow Solutions,LTD,2024-10-27,1340361,Elena Rodriguez,Kaiser Permanente,Proposal Presented
+EB-00099,Heritage Hospitality,Dental,2024-12-28,876411,Linda Garter,Humana,Census Received
+EB-00100,Riverbend Textiles,Vision,2024-12-31,970701,Sarah Jenkins,Unum,Underwriting
